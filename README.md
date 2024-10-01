@@ -1,7 +1,6 @@
 # RestaurantbyAK
 
 Welcome to the **RestaurantbyAK** website! This project showcases a restaurant's offerings, including its menu, booking options, and contact information. 
-Check out my website at ----> https://restaurantbyak.netlify.app/
 
 ## Table of Contents
 - [Purpose](#purpose)
@@ -36,10 +35,13 @@ The purpose of the RestaurantbyAK website is to provide customers with an engagi
    cd RestaurantbyAK
 3. View the Website: Open the index.html file in your web browser to view the website locally.
 
+## Deployment
+The website is deployed on Netlify/Vercel. You can access it live at the following URL: https://restaurantbyak.netlify.app/
+
 ## Contact
 For any inquiries or feedback, please contact:
 
-Email: akshatguptaxyz@gmail.com
-Phone: +91 9149xxxxxx
+- Email: akshatguptaxyz@gmail.com
+- Phone: +91 9149xxxxxx
 
-Thank you for visiting RestaurantbyAK! We are looking forward to serve you.
+Thank you for visiting **RestaurantbyAK!** We are looking forward to serve you.
